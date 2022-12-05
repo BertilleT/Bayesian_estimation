@@ -8,7 +8,7 @@
   2 priors distributions are studied: uniform and multi gaussian. 
 
 - multi_gaussian_bayesian_estimation.pdf   
-  This pdf files contains my notes to describe some plots resulting from the 2 scripts. The assignment subjects have been hiden because it is not me that wrote them. 
+  This pdf files contains my notes to describe some plots resulting from the 2 scripts. The assignment subjects have been hiden because it is not me who wrote them. 
 ## Remarks
 Please, take into account there might be errors, I am a student. Feel free to contact me if you identify something wrong, or have any suggestion. 
 Those scripts were written in a limited time context for a statistical assignment. 
